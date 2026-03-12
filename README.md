@@ -1,10 +1,12 @@
-﻿Integrantes:
-- [Raphaël Nicaise](https://github.com/RaphaelNicaise) — Fullstack & Infrastructure
-- [Nicolas Cordano](https://github.com/NACXIIX) — QA & Fullstack
-- [Abner Grgurich](https://github.com/Abner2646) — Fullstack
-- [Santiago Segal](https://github.com/Santucho12) — FullStack
+## Colaboradores
+Este proyecto fue desarrollado originalmente como Trabajo Final Integrador para la UTN por:
 
-[Trello](https://trello.com/b/Cl5Jz95t/trabajo-final-integrador) 
+* **Nicolás Cordano**
+* **Raphaël Nicaise**
+* **Abner Grgurich**
+* **Santiago Segal**
+
+> **Nota:** Esta versión es una continuación independiente mantenida por mí, partiendo del repositorio original aprobado en [2026] con una nota final de 10/10.
 
 # Documentacion Tecnica - StoreHub
 
